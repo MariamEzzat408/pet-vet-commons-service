@@ -1,0 +1,11 @@
+/Users/mariamezzat/Desktop/Pet&Vet/pet-care-commons-service/commons-exception/src/main/java/com/petcare/commons/exceptions/exception/DuplicateAddressException.java
+/Users/mariamezzat/Desktop/Pet&Vet/pet-care-commons-service/commons-exception/src/main/java/com/petcare/commons/exceptions/exception/EmailAlreadyExistsException.java
+/Users/mariamezzat/Desktop/Pet&Vet/pet-care-commons-service/commons-exception/src/main/java/com/petcare/commons/exceptions/exception/InvalidCredentialsException.java
+/Users/mariamezzat/Desktop/Pet&Vet/pet-care-commons-service/commons-exception/src/main/java/com/petcare/commons/exceptions/exception/InvalidEmailDomainException.java
+/Users/mariamezzat/Desktop/Pet&Vet/pet-care-commons-service/commons-exception/src/main/java/com/petcare/commons/exceptions/exception/InvalidPaginationException.java
+/Users/mariamezzat/Desktop/Pet&Vet/pet-care-commons-service/commons-exception/src/main/java/com/petcare/commons/exceptions/exception/InvalidRefreshTokenException.java
+/Users/mariamezzat/Desktop/Pet&Vet/pet-care-commons-service/commons-exception/src/main/java/com/petcare/commons/exceptions/exception/NoAddressFoundException.java
+/Users/mariamezzat/Desktop/Pet&Vet/pet-care-commons-service/commons-exception/src/main/java/com/petcare/commons/exceptions/exception/TokenExpiredException.java
+/Users/mariamezzat/Desktop/Pet&Vet/pet-care-commons-service/commons-exception/src/main/java/com/petcare/commons/exceptions/exception/TokenGenerationException.java
+/Users/mariamezzat/Desktop/Pet&Vet/pet-care-commons-service/commons-exception/src/main/java/com/petcare/commons/exceptions/exception/UserNotFoundException.java
+/Users/mariamezzat/Desktop/Pet&Vet/pet-care-commons-service/commons-exception/src/main/java/com/petcare/commons/exceptions/exception/UserNotVerifiedException.java

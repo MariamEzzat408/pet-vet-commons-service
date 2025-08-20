@@ -1,0 +1,11 @@
+com/petcare/commons/exceptions/exception/TokenGenerationException.class
+com/petcare/commons/exceptions/exception/InvalidCredentialsException.class
+com/petcare/commons/exceptions/exception/InvalidEmailDomainException.class
+com/petcare/commons/exceptions/exception/DuplicateAddressException.class
+com/petcare/commons/exceptions/exception/NoAddressFoundException.class
+com/petcare/commons/exceptions/exception/InvalidPaginationException.class
+com/petcare/commons/exceptions/exception/TokenExpiredException.class
+com/petcare/commons/exceptions/exception/UserNotFoundException.class
+com/petcare/commons/exceptions/exception/EmailAlreadyExistsException.class
+com/petcare/commons/exceptions/exception/UserNotVerifiedException.class
+com/petcare/commons/exceptions/exception/InvalidRefreshTokenException.class
